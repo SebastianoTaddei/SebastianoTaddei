@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate researcher and developer, currently finishing my PhD. My work focuses on autonomous driving, particularly the Artificial Race Driver (ARD) framework. I built the entire software stack for our driving simulator from scratch, enabling realistic autonomous driving and racing. I am also a maintainer of the BSplineX project, a C++ library about the beautiful B-Splines.
+I'm a passionate researcher and developer, currently finishing my PhD. My work focuses on autonomous racing, particularly the Artificial Race Driver (ARD) framework. I built the entire software stack for our driving simulator from scratch, enabling realistic autonomous driving and racing. I am also a maintainer of the BSplineX project, a C++ library about the beautiful B-Splines.
 
 ## 🛠️ My Tech Stack
 
@@ -29,4 +29,3 @@ I'm a passionate researcher and developer, currently finishing my PhD. My work f
 * [GitHub](https://github.com/SebastianoTaddei)
 
 Thanks for visiting! Feel free to reach out if you share similar interests or have questions about my work.
-
