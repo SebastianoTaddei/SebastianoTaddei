@@ -20,8 +20,11 @@ I'm a passionate researcher and developer, currently finishing my PhD. My work f
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SebastianoTaddei\&show_icons=true\&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianoTaddei\&layout=compact\&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SebastianoTaddei\&count_private=true\&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage\&theme=catppuccin_mocha)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianoTaddei\&count_private=true\&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER\&layout=compact\&theme=catppuccin_mocha)
+
+
+<!-- https://github-readme-stats-eight-beige-13.vercel.app -->
 
 ## 💬 Let's Connect
 
